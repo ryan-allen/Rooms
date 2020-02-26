@@ -1,7 +1,0 @@
-namespace Rooms
-{
-    class Monster
-    {
-
-    }
-}

@@ -1,0 +1,7 @@
+namespace Rooms
+{
+    class Room
+    {
+
+    }
+}

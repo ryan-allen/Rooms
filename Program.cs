@@ -6,7 +6,7 @@ namespace Rooms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new Generator().Generate().Play();
         }
     }
 }
